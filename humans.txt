@@ -3,11 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ideas & Design: Albert Prat Sola
+	From: Barcelona, Catalonia, Spain
+	
+	Ideas & Implementation: Sean Connolly
+	From: Barcelona, Catalonia, Spain
 
 # THANKS
 
-    <name>
+    DOSBCN.com
 
 # TECHNOLOGY COLOPHON
 
