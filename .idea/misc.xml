@@ -5,7 +5,7 @@
     <option name="formatter" value="ECLIPSE" />
     <option name="id" value="1367945046054" />
     <option name="name" value="default" />
-    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../EclipseFormatPreferences.xml" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/Projects/EclipseFormatPreferences.xml" />
     <option name="selectedJavaProfile" value="EclipseFormatPreferences" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true">
