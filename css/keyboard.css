@@ -1,0 +1,128 @@
+.keyboard {
+    width: 100%;
+    height: 50%;
+    margin: auto;
+}
+
+.keyboard .key {
+    float: left;
+    width: 20%;
+    height: 20%;
+}
+
+.keyboard .key div {
+    width: 100%;
+    height: 100%;
+    background-color: #ededed;
+}
+
+.keyboard:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+[class*='key'] {
+    padding: 1px;
+}
+
+
+.keyboard .key97.pressed div {
+    background-color: rgb(159, 150, 143);
+}
+
+.keyboard .key98.pressed div {
+    background-color: rgb(237, 114, 237);
+}
+
+.keyboard .key99.pressed div {
+    background-color: rgb(48, 48, 48);
+}
+
+.keyboard .key101.pressed div {
+    background-color: rgb(237, 237, 102);
+}
+
+.keyboard .key102.pressed div {
+    background-color: rgb(186, 93, 25);
+}
+
+.keyboard .key103.pressed div {
+    background-color: rgb(202, 242, 139);
+}
+
+.keyboard .key104.pressed div {
+    background-color: rgb(105, 231, 231);
+}
+
+.keyboard .key105.pressed div {
+    background-color: rgb(180, 227, 37);
+}
+
+.keyboard .key106.pressed div {
+    background-color: rgb(211, 52, 0);
+}
+
+.keyboard .key107.pressed div {
+    background-color: rgb(62, 139, 162);
+}
+
+.keyboard .key108.pressed div {
+    background-color: rgb(201, 166, 237);
+}
+
+.keyboard .key109.pressed div {
+    background-color: rgb(249, 164, 112);
+}
+
+.keyboard .key110.pressed div {
+    background-color: rgb(119, 0, 138);
+}
+
+.keyboard .key111.pressed div {
+    background-color: rgb(0, 159, 237);
+}
+
+.keyboard .key112.pressed div {
+    background-color: rgb(255, 108, 135);
+}
+
+.keyboard .key113.pressed div {
+    background-color: rgb(255, 112, 22);
+}
+
+.keyboard .key114.pressed div {
+    background-color: rgb(0, 137, 237);
+}
+
+.keyboard .key115.pressed div {
+    background-color: rgb(240, 240, 161);
+}
+
+.keyboard .key116.pressed div {
+    background-color: rgb(61, 79, 93);
+}
+
+.keyboard .key117.pressed div {
+    background-color: rgb(0, 237, 154);
+}
+
+.keyboard .key118.pressed div {
+    background-color: rgb(0, 255, 142);
+}
+
+.keyboard .key119.pressed div {
+    background-color: rgb(115, 217, 255);
+}
+
+.keyboard .key120.pressed div {
+    background-color: rgb(237, 194, 0);
+}
+
+.keyboard .key121.pressed div {
+    background-color: rgb(237, 92, 237);
+}
+
+.keyboard .key122.pressed div {
+    background-color: rgb(240, 89, 109);
+}
